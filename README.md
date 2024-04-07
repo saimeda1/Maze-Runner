@@ -1,6 +1,6 @@
 # Maze Runner
 
-Maze Runner is a sophisticated Java application designed to efficiently navigate through complex mazes. By applying cutting-edge algorithms, it ensures the most optimal path is found, making it an excellent tool for educational purposes, gaming, algorithmic learning, and more.
+Maze Runner is a sophisticated Java application designed to efficiently navigate through complex mazes. By applying cutting-edge algorithms, it ensures the most optimal path is found, making it a fun tool.
 
 ## Features
 
